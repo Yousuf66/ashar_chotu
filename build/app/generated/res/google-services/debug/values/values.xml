@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">172931311703-fdkju3gf5l8jgqsvld5iqv1tks5p3rm2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://asharapp-bf548.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">172931311703</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDOTytqxdxgZ13JQorAa8irhlTC_0vZIk</string>
+    <string name="google_app_id" translatable="false">1:172931311703:android:6deb70ed034a3a77391b12</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDOTytqxdxgZ13JQorAa8irhlTC_0vZIk</string>
+    <string name="google_storage_bucket" translatable="false">asharapp-bf548.appspot.com</string>
+    <string name="project_id" translatable="false">asharapp-bf548</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Yousuff Siddiqui\\Desktop\\flutter\\flutter-firebase-lesson-12\\brew_crew\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Yousuff Siddiqui\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\fe8bb43b6eeb4d1246123b587e0fd5f4\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

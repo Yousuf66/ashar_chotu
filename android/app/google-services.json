@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "172931311703",
+    "firebase_url": "https://asharapp-bf548.firebaseio.com",
+    "project_id": "asharapp-bf548",
+    "storage_bucket": "asharapp-bf548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172931311703:android:6deb70ed034a3a77391b12",
+        "android_client_info": {
+          "package_name": "com.fivepillars.chotu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172931311703-fdkju3gf5l8jgqsvld5iqv1tks5p3rm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDOTytqxdxgZ13JQorAa8irhlTC_0vZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172931311703-fdkju3gf5l8jgqsvld5iqv1tks5p3rm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172931311703:android:a63a64a221c90940391b12",
+        "android_client_info": {
+          "package_name": "com.so.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172931311703-fdkju3gf5l8jgqsvld5iqv1tks5p3rm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDOTytqxdxgZ13JQorAa8irhlTC_0vZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172931311703-fdkju3gf5l8jgqsvld5iqv1tks5p3rm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
